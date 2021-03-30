@@ -1,4 +1,4 @@
-#Armlab
+# Armlab
 
 The objective of this project is to program a 6 DOF robot manipulator to perform pick-and-place of colored cubes based on the Kinect sensor. The tasks required to be complete this project can be broken down into two categories:
 
